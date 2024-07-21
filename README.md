@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 🩷 Hi, I'm Fatima Marie, a graduate of MS Computer Science and a Computer Science Lecturer.<br/>
 🌱 I'm currently learning: programming languages, image processing, data structures and algorithms, and mobile app development.<br/>
+🌼 I also enjoy designing PowerPoint presentations for my classes/discussions.<br/>
 🥰 Pronouns: she/her<br/>
 🎀 Fun fact: I am a ONCE and I stan BaekHong! Pink is my favorite color.<br/>
 💌 You can contact me via: fatimamarieagdon@gmail.com
