@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 🥰 Pronouns: she/her<br/>
 🎀 Fun fact: I am a ONCE and I stan BaekHong! Pink is my favorite color.<br/>
 💌 You can contact me via: fatimamarieagdon@gmail.com
+
+## 🏹☁️ stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=bear)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
