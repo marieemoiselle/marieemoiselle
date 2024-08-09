@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🌼 I also enjoy designing PowerPoint presentations for my classes/discussions.<br/>
 🥰 Pronouns: she/her<br/>
 🎀 Fun fact: I am a ONCE and I stan BaekHong! Pink is my favorite color.<br/>
-💌 You can contact me via: fatimamarieagdon@gmail.com
+💌 You can contact me via: fatimamarie.agdon@g.batstate-u.edu.ph
 
 ## 🏹☁️ stats
 
