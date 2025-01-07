@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 
 ## 🏹☁️ stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=omni) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=bear)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=bear) <br/>
 [![](https://visitcount.itsvg.in/api?id=marieemoiselle&label=Profile%20Views&color=10&icon=4&pretty=false)](https://visitcount.itsvg.in)
