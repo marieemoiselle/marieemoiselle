@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=bear)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=bear) <br/>
-[![](https://visitcount.itsvg.in/api?id=marieemoiselle&label=Profile%20Views&color=10&icon=4&pretty=false)](https://visitcount.itsvg.in)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=marieemoiselle)](https://github.com/ryo-ma/github-profile-trophy)-->
+
