@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 🌼 I also enjoy designing PowerPoint presentations for my classes/discussions.<br/>
 🥰 Pronouns: she/her<br/>
 🎀 Fun fact: I am a ONCE and I stan BaekHong! Pink is my favorite color.<br/>
-💌 You can contact me via: fatimamarie.agdon@g.batstate-u.edu.ph
+💌 You can contact me via: <a href = "mailto:fatimamarie.agdon@g.batstate-u.edu.ph">fatimamarie.agdon@g.batstate-u.edu.ph</a>
 
-## 🏹☁️ stats
+## 🏹☁️ GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=bear)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=bear) <br/>
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=marieemoiselle)](https://github.com/ryo-ma/github-profile-trophy)-->
 
