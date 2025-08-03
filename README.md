@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🩷 Hi, I'm Fatima Marie, a graduate of MS Computer Science and a Computer Science Lecturer.<br/>
+🩷 Hi, I'm Marie, a graduate of MS Computer Science and a Computer Science Instructor.<br/>
 🌱 I'm currently learning: programming languages, image processing, data structures and algorithms.<br/>
 🌼 I also enjoy designing PowerPoint presentations for my classes/discussions.<br/>
 🥰 Pronouns: she/her<br/>
-🎀 Fun fact: I am a ONCE<br/>
+🎀 Fun fact: I am a ONCE, and I ship HeiZuha/HeiKazu<br/>
 💌 You can contact me via: <a href = "mailto:fatimamarie.agdon@g.batstate-u.edu.ph">fatimamarie.agdon@g.batstate-u.edu.ph</a>
 
 ## 🏹☁️ GitHub Stats
