@@ -1,4 +1,4 @@
-## 🩷🌸🌷🧸🎀🫧
+## こんにちは世界。♡
 
 <!--
 **marieemoiselle/marieemoiselle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 🌼 I also enjoy designing PowerPoint presentations for my classes/discussions.<br/>
 🥰 Pronouns: she/her<br/>
 🎀 Fun fact: I am a ONCE, and I ship HeiZuha/HeiKazu<br/>
+🪄 Stay curious, keep building, and never stop debugging life, one step at a time.<br/>
 💌 You can contact me via: <a href = "mailto:fatimamarie.agdon@g.batstate-u.edu.ph">fatimamarie.agdon@g.batstate-u.edu.ph</a>
 
 ## 🏹☁️ GitHub Stats
