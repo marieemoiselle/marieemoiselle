@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 🌱 I'm currently learning: programming languages, image processing, data structures and algorithms.<br/>
 🌼 I also enjoy designing PowerPoint presentations for my classes/discussions.<br/>
 🥰 Pronouns: she/her<br/>
-🎀 Fun fact: I am a ONCE, and I ship HeiZuha/HeiKazu<br/>
-🪄 Stay curious, keep building, and never stop debugging life, one step at a time.<br/>
+🎀 Stay curious, keep building, and never stop debugging life, one step at a time.<br/>
 💌 You can contact me via: <a href = "mailto:fatimamarie.agdon@g.batstate-u.edu.ph">fatimamarie.agdon@g.batstate-u.edu.ph</a>
 
-## 🏹☁️ GitHub Stats
+## 🏹☁️ GitHub Stats ⋆˚꩜｡
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=bear) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=bear) <br/>
+![](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=calm_pink)
+<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=calm_pink) <br/>
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=marieemoiselle)](https://github.com/ryo-ma/github-profile-trophy)-->
 
