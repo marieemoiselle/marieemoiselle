@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🌼 I also enjoy designing PowerPoint presentations for my classes/discussions.<br/>
 🥰 Pronouns: she/her<br/>
 🎀 Stay curious, keep building, and never stop debugging life, one step at a time.<br/>
-💌 You can contact me via: <a href = "mailto:fatimamarie.agdon@g.batstate-u.edu.ph">fatimamarie.agdon@g.batstate-u.edu.ph</a>
+💌 You can contact me via: <a href = "mailto:fatimamarieagdon@gmail.com">fatimamarieagdon@gmail.com</a>
 
 ## 🏹☁️ GitHub Stats ⋆˚꩜｡
 
