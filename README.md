@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=calm_pink)
 <br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=calm_pink) <br/>
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=marieemoiselle)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=marieemoiselle&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
