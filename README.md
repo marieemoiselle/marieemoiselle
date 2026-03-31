@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 -->
 
 ## જ⁀➴ ♡ GitHub Stats ⋆˚꩜｡
-![](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=calm_pink)
-<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=calm_pink) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=marieemoiselle&theme=duskfox)](https://git.io/streak-stats)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=marieemoiselle&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)-->
 ![](https://github-trophies.vercel.app/?username=marieemoiselle)
+![](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=calm_pink)
+<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=calm_pink) <br/>
 
